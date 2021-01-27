@@ -8,6 +8,7 @@ import Widget from '../src/components/Widget';
 import Footer from '../src/components/Footer';
 import GitHubCorner from '../src/components/GitHubCorner';
 import QuizBackground from '../src/components/QuizBackground';
+import i from '../assets/bgimg.jpg';
 
 // const BackgroundImage = styled.div`
 //   background-image: url(${db.bg});
@@ -44,14 +45,14 @@ export default function Home() {
         <meta property="og:url" content="https://aluraquiz-base-puce.vercel.app/" />
         <meta property="og:title" content="AluraQuiz - Modelo Base" />
         <meta property="og:description" content="Projeto em desenvolvimento com a tecnologia NextJS" />
-        <meta property="og:image" content="https://aluraquiz-base.mcabralo.vercel.app/assets/bgimg.jpg" />
+        <meta property="og:image" content={db.bg} />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://aluraquiz-base-puce.vercel.app/" />
         <meta property="twitter:title" content="AluraQuiz - Modelo Base" />
         <meta property="twitter:description" content="Projeto em desenvolvimento com a tecnologia NextJS" />
-        <meta property="twitter:image" content="https://aluraquiz-base.mcabralo.vercel.app/assets/bgimg.jpg" />
+        <meta property="twitter:image" content={db.bg} />
         <title>AluraQuiz - Modelo Base</title>
       </Head>
       <QuizContainer>
