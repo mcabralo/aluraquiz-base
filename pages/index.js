@@ -41,17 +41,17 @@ export default function Home() {
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://metatags.io/" />
+        <meta property="og:url" content="https://aluraquiz-base-puce.vercel.app/" />
         <meta property="og:title" content="AluraQuiz - Modelo Base" />
         <meta property="og:description" content="Projeto em desenvolvimento com a tecnologia NextJS" />
-        <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png" />
+        <meta property="og:image" content="https://aluraquiz-base.mcabralo.vercel.app/bgimg.jpg" />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://metatags.io/" />
+        <meta property="twitter:url" content="https://aluraquiz-base-puce.vercel.app/" />
         <meta property="twitter:title" content="AluraQuiz - Modelo Base" />
         <meta property="twitter:description" content="Projeto em desenvolvimento com a tecnologia NextJS" />
-        <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png" />
+        <meta property="twitter:image" content="https://aluraquiz-base.mcabralo.vercel.app//bgimg.jpg" />
         <title>AluraQuiz - Modelo Base</title>
       </Head>
       <QuizContainer>
