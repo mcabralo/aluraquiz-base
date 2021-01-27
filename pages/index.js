@@ -44,14 +44,14 @@ export default function Home() {
         <meta property="og:url" content="https://aluraquiz-base-puce.vercel.app/" />
         <meta property="og:title" content="AluraQuiz - Modelo Base" />
         <meta property="og:description" content="Projeto em desenvolvimento com a tecnologia NextJS" />
-        <meta property="og:image" content="https://aluraquiz-base.mcabralo.vercel.app/bgimg.jpg" />
+        <meta property="og:image" content="https://aluraquiz-base.mcabralo.vercel.app/assets/bgimg.jpg" />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://aluraquiz-base-puce.vercel.app/" />
         <meta property="twitter:title" content="AluraQuiz - Modelo Base" />
         <meta property="twitter:description" content="Projeto em desenvolvimento com a tecnologia NextJS" />
-        <meta property="twitter:image" content="https://aluraquiz-base.mcabralo.vercel.app//bgimg.jpg" />
+        <meta property="twitter:image" content="https://aluraquiz-base.mcabralo.vercel.app/assets/bgimg.jpg" />
         <title>AluraQuiz - Modelo Base</title>
       </Head>
       <QuizContainer>
