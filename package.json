@@ -11,6 +11,8 @@
   "dependencies": {
     "add": "^2.0.6",
     "next": "latest",
+    "prop-types": "^15.7.2",
+    "proptypes": "^1.1.0",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-is": "^16.8.0",
