@@ -1,33 +1,37 @@
 {
   "bg": "https://images5.alphacoders.com/311/311151.jpg",
+  "animation": "https://assets3.lottiefiles.com/private_files/lf30_Dww3kQ.json",
   "title": "Quiz CSS da Alura",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "image": "https://media.giphy.com/media/oSIZ0tXDVoLW8/giphy.gif",
+      "title": "Quand a commencé la Révolution Française ?",
+      "description": "Naître de la Liberté, Igualité et Fidelité",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "En 1813",
+        "En 1803",
+        "En 1789",
+        "En 1793"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://media.giphy.com/media/fOtA9hO1bNmaQ/giphy.gif",
+      "title": "En parlant avec quelqu'un que vous ne connaissez pas, disez-vous: ",
+      "description": "Bonjour",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Bonjour, je m'appelle ...",
+         "Salut! Quoi de neuf ?",
+         "Bonne Nuit! Je m'appelle ...",
+         "Salut! Ça fait longtemps qu'on se parlait."
       ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-marvel.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
