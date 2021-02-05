@@ -1,0 +1,9 @@
+{
+    "name": "AluraQuiz",
+    "short_name": "AQ",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/https://aluraquiz-base.mcabralo.vercel.app/"
+  }
